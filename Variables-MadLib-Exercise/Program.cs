@@ -28,7 +28,7 @@ namespace Variables_MadLib_Exercise
             // MadLib
             Console.WriteLine($"It was a {adjective}, cold November day, I woke up to the {adjective2} smell of {typeOfBird} roasting in the {roomInAHouse} downstairs.\nI {pastTenseVerb} down the stairs to see if I could help {verb} the dinner.\nMy mom said, 'See if {relativesName} needs a fresh {noun}.'\nSo I carried a tray of glasses full of {typeOfLiquid} into the {verEndingInING} room.\nWhen I got there I couldn't believe my {pluralPartOfTheBody}! There were {pluralNoun} {secondVerbEndingInING} on the {noun2}!");
             
-            // Run the application and see your story you've created
+            // Run the application and see the story you've created
 
 
         }
