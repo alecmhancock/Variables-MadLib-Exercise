@@ -1,0 +1,12 @@
+C:\Users\brand\source\repos\Variables-MadLib-Exercise\Variables-MadLib-Exercise\obj\Debug\netcoreapp3.1\Variables-MadLib-Exercise.AssemblyInfoInputs.cache
+C:\Users\brand\source\repos\Variables-MadLib-Exercise\Variables-MadLib-Exercise\obj\Debug\netcoreapp3.1\Variables-MadLib-Exercise.AssemblyInfo.cs
+C:\Users\brand\source\repos\Variables-MadLib-Exercise\Variables-MadLib-Exercise\obj\Debug\netcoreapp3.1\Variables-MadLib-Exercise.csproj.CoreCompileInputs.cache
+C:\Users\brand\source\repos\Variables-MadLib-Exercise\Variables-MadLib-Exercise\bin\Debug\netcoreapp3.1\Variables-MadLib-Exercise.exe
+C:\Users\brand\source\repos\Variables-MadLib-Exercise\Variables-MadLib-Exercise\bin\Debug\netcoreapp3.1\Variables-MadLib-Exercise.deps.json
+C:\Users\brand\source\repos\Variables-MadLib-Exercise\Variables-MadLib-Exercise\bin\Debug\netcoreapp3.1\Variables-MadLib-Exercise.runtimeconfig.json
+C:\Users\brand\source\repos\Variables-MadLib-Exercise\Variables-MadLib-Exercise\bin\Debug\netcoreapp3.1\Variables-MadLib-Exercise.runtimeconfig.dev.json
+C:\Users\brand\source\repos\Variables-MadLib-Exercise\Variables-MadLib-Exercise\bin\Debug\netcoreapp3.1\Variables-MadLib-Exercise.dll
+C:\Users\brand\source\repos\Variables-MadLib-Exercise\Variables-MadLib-Exercise\bin\Debug\netcoreapp3.1\Variables-MadLib-Exercise.pdb
+C:\Users\brand\source\repos\Variables-MadLib-Exercise\Variables-MadLib-Exercise\obj\Debug\netcoreapp3.1\Variables-MadLib-Exercise.dll
+C:\Users\brand\source\repos\Variables-MadLib-Exercise\Variables-MadLib-Exercise\obj\Debug\netcoreapp3.1\Variables-MadLib-Exercise.pdb
+C:\Users\brand\source\repos\Variables-MadLib-Exercise\Variables-MadLib-Exercise\obj\Debug\netcoreapp3.1\Variables-MadLib-Exercise.genruntimeconfig.cache
