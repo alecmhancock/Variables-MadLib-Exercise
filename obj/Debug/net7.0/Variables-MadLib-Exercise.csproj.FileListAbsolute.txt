@@ -1,0 +1,5 @@
+/Users/alechancock/Documents/TrueCoders/Repos/Variables-MadLib-Exercise/obj/Debug/net7.0/Variables-MadLib-Exercise.csproj.AssemblyReference.cache
+/Users/alechancock/Documents/TrueCoders/Repos/Variables-MadLib-Exercise/obj/Debug/net7.0/Variables-MadLib-Exercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alechancock/Documents/TrueCoders/Repos/Variables-MadLib-Exercise/obj/Debug/net7.0/Variables-MadLib-Exercise.AssemblyInfoInputs.cache
+/Users/alechancock/Documents/TrueCoders/Repos/Variables-MadLib-Exercise/obj/Debug/net7.0/Variables-MadLib-Exercise.AssemblyInfo.cs
+/Users/alechancock/Documents/TrueCoders/Repos/Variables-MadLib-Exercise/obj/Debug/net7.0/Variables-MadLib-Exercise.csproj.CoreCompileInputs.cache
