@@ -21,7 +21,7 @@ namespace Variables_MadLib_Exercise
             string secondVerbEndingInING;
             string noun2;
 
-            // Give vaules to the variables above by taking input from the user. Example-- string variable name = Console.ReadLine();
+            // Give values to the variables above by taking input from the user. Example-- string variableName = Console.ReadLine();
             // Be sure to prompt the user before each value is assigned. Example -- Console.WriteLine("Please give me an adjective.");
             
            
